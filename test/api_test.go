@@ -9,8 +9,10 @@ import (
 )
 
 const (
-	APPKEY = "f3bb208b3d081dc8"
-	SECRET = "1c15888dc316e05a15fdd0a02ed6584f"
+	APPKEY = "1d8b6e7d45233436"
+	SECRET = "3010c4eff415d49aecd0cddb4f4c9485"
+	/*APPKEY = "f3bb208b3d081dc8"
+	SECRET = "1c15888dc316e05a15fdd0a02ed6584f"*/
 )
 
 func TestApiSortRank(t *testing.T) {
